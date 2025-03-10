@@ -40,8 +40,7 @@ else()
             ${PROJECT_SOURCES}
             speedometer.h
             speedometer.cpp
-            REDMEA.MD
-            README.MD
+
         )
     endif()
 endif()
