@@ -40,6 +40,8 @@ else()
             ${PROJECT_SOURCES}
             speedometer.h
             speedometer.cpp
+            darktheme.css
+            darktheme.css
 
         )
     endif()
